@@ -92,7 +92,7 @@ Custom stylesheet to enhance UI appearance:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component        | Description                                     |
 |------------------|-------------------------------------------------|
@@ -102,4 +102,5 @@ Custom stylesheet to enhance UI appearance:
 | **Groq API**     | Access to LLaMA-3.3-70B for AI summarization.   |
 
 
-
+## Additional Method that could be used
+Using Pretrained BART Based Summarizer (https://huggingface.co/facebook/bart-large-cnn) sticked to LLM as I thouht of leveraging AI agent would be more cool throuh prompt based summarizer.
