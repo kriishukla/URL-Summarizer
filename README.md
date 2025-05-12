@@ -27,7 +27,7 @@ This application is ideal for quickly understanding lengthy articles or webpages
 
 ### Summarize Using LLM (Groq API)
 - Uses Groq’s LLaMA-3.3-70B via `groq` client for:
-  - Full summarization (5–7 bullet points).
+  - Full summarization.
   - Query-based summarization (contextual response to a user query).
 
 ## Run the Flask Application
