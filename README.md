@@ -1,8 +1,8 @@
 
-# WebSite Summarizer – Documentation
+# URL Summarizer
 
 ## Overview
-**Zocket Web Page Summarizer** is a Flask-based AI agent that:
+** URL Summarizer** is a Flask-based AI agent that:
 - Accepts a **webpage URL**.
 - Extracts textual content from the URL.
 - Summarizes the content using **Groq’s LLaMA 3.3-70B model**.
