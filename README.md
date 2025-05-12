@@ -10,6 +10,7 @@ URL Summarizer is a Flask-based AI agent that:
 
 This application is ideal for quickly understanding lengthy articles or webpages, especially for research or competitive analysis.
 
+**You may need to chane the hardcoded API key of Groq from https://console.groq.com/keys in case mine crosses the limit or is Revoked due to leakage.**
 ---
 
 ## Features
