@@ -2,7 +2,7 @@
 # URL Summarizer
 
 ## Overview
-** URL Summarizer** is a Flask-based AI agent that:
+URL Summarizer is a Flask-based AI agent that:
 - Accepts a **webpage URL**.
 - Extracts textual content from the URL.
 - Summarizes the content using **Groq’s LLaMA 3.3-70B model**.
@@ -33,11 +33,9 @@ This application is ideal for quickly understanding lengthy articles or webpages
 ## Run the Flask Application
 
 1.  Ensure you are still in the terminal or command prompt and in the same directory where the `app.py` file is located.
-2.  Execute the command to start the Flask development server:
-    *python app.py
-
-    or, if you are using Python 3:
-    *python3 app.py
+2.  Execute the command to start the Flask development server by one of the followin command based on your python version:
+    * python app.py
+    * python3 app.py
 
 3.  You should see some output in your terminal indicating that the Flask development server has started. It will typically display a message similar to:
 
